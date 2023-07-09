@@ -6,4 +6,10 @@
 > python strategy_standard_deviation.py
 
 [3] Calculate returns for each strategy
-> python returns.py
+> python calculate_returns.py
+
+[4] Execute live trades @https://github.com/cedricnaedler/ba_live_trading
+
+[5] See results
+> results_backtesting.ipynb
+> results_live_trading.ipynb
